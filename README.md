@@ -27,11 +27,6 @@ python clustering_visualization_main.py
 ```
 - 입력 파일은 `dataset/twcs/customer_support_twitter.csv`에 위치해야 함.
 
-### 예시
-```bash
-python clustering_visualization_main.py
-```
-
 ### 코드 설명
 이 코드는 트위터 고객 문의 데이터를 클러스터링하고 시각화합니다. 주요 구성 요소는 다음과 같습니다:
 
@@ -48,7 +43,7 @@ python clustering_visualization_main.py
   - HTML 파일: 클러스터 유형별 색상으로 구분된 인터랙티브 시각화.
 
 #### 결과 이미지
-![P1 결과](png/P1.png)
+![P1 결과](./png/P1.png)
 
 </details>
 
@@ -94,7 +89,7 @@ python customer_inquiry_classifier.py
   - `evaluation_results.txt`: 정확도 90% 이상 등 성능 지표.
 
 #### 결과 이미지
-![P2 결과](png/P2.png)
+![P2 결과](./png/P2.png)
 
 </details>
 
